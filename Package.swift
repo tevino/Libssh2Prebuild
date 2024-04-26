@@ -9,7 +9,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "CSSH",
-                      url: "https://github.com/DimaRU/Libssh2Prebuild/releases/download/1.11.0-OpenSSL-1-1-1w/CSSH-1.11.0-OpenSSL-1-1-1w.xcframework.zip",
-                      checksum: "f2a14236019b617019f522001c89ad5db2125e8f350cbcde5ed6e96f50842157")
+                      url: "https://github.com/tevino/Libssh2Prebuild/releases/download/1.11.0-OpenSSL-1-1-1w/CSSH-1.11.0-OpenSSL-1-1-1w.xcframework.zip",
+                      checksum: "76b7deaa6c80c573c685d44e0e4e2326e75c39259c13342880eda62560a68dce")
     ]
 )
